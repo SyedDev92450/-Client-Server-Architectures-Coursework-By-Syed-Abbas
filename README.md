@@ -9,8 +9,7 @@ The Smart Campus application is a RESTful service built using JAX-RS (Jersey) th
 
 Build and Run Instructions
 
-To build and run the project, first download the zip file, then unzip it before opening the project in NetBeans. You will need to have JDK and Apache Tomcat installed before running the project. Next, you can run the project directly from the IDE by right-clicking the project and selecting Run. Once deployed,  you can then access the application at http://localhost:8080/Smart_Campus/api/v1. To run tests on the API, open Postman, and make sure that the header is set to Content-Type: application/json and then run the test. You can check on the NetBeans output that all requests and responses are logged.
-
+To build and run the project, first click on the green button that says "code" and download the project as a zip file, then unzip it before opening the project in NetBeans. You will need to have JDK and Apache Tomcat installed before running the project. Next, you can run the project directly from the IDE by right-clicking the project and selecting Run. Once deployed, you can then access the application at http://localhost:8080/Smart_Campus/api/v1. To run tests on the API, open Postman, and make sure that the header is set to Content-Type: application/json and then run the test. You can check on the NetBeans output that all requests and responses are logged.
 
 Here are five sample curl commands:
 
